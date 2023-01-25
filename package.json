@@ -1,0 +1,16 @@
+{
+  "name": "turning-pages-with-css",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Akius1/turning-pages-with-css.git",
+  "author": "Andrew Urom <andrewurom@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@parcel/transformer-sass": "2.8.3",
+    "parcel": "^2.8.3",
+    "sass": "^1.57.1"
+  },
+  "scripts": {
+    "start": "parcel index.html"
+  }
+}
